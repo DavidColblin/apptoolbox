@@ -1,0 +1,8 @@
+davids
+dav123456
+davids.heliohost.org/cpanel 
+david@mailinator.com
+
+database: davids_cdfs
+username: davids_cdfs
+password: cdfs1fs

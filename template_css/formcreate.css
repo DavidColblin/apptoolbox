@@ -1,0 +1,45 @@
+#column1 .ui-widget-header{
+	padding: 5px;
+	margin: 5px;
+}
+#details p {
+	padding-top: 10px;
+	font-weight: bold;
+	margin-left: -3px;
+}
+
+#page li {
+	border: none;
+}
+#page ul li:hover {
+	border-color: none;
+	border-style: none;
+	cursor: default;
+}
+
+#history ul {
+	font-size: 10px;
+	padding: 0px 10px;
+}
+
+#history li:hover, #descriptionDialog table tr:hover{
+	border: 1px dashed silver;
+}
+#history li{
+	padding: 3px;
+}
+
+#history .time{
+	display: none;
+}
+
+#descriptionDialog table td{
+	padding: 3px 0px;
+}
+
+#pageul .icon 
+{
+	cursor: pointer;
+	margin: 5px 3px;
+	display: inline-block
+}

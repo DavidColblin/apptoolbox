@@ -1,0 +1,54 @@
+body {
+	text-shadow: 0px 0px 1px silver;
+}
+
+#column1, #column2{
+	display: inline-block;
+	margin: 10px;
+	min-height: 500px;
+	} 
+	
+#column1{
+	float: left;
+	width: 25%;
+}
+
+#column2{
+	width: 70%;	
+}
+
+.button{
+	margin-left: 2px;
+}
+
+.hidden {
+	display: none;
+}
+
+#tabs-2 input{
+	margin-right: 25px;
+}
+
+#tabs .label{
+	width: 70px;
+	display: inline-block
+}
+
+#tabs td{
+	padding-bottom: 10px;
+}
+
+#tabs-2 input {
+	width: 150px;
+}
+
+#tabs input {
+	padding: 5px;
+}
+
+.ui-autocomplete-category {
+	font-weight: bold;
+	padding: .2em .4em;
+	margin: .8em 0 .2em;
+	line-height: 1.5;
+}

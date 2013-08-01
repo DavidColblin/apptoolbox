@@ -1,0 +1,4 @@
+http://jqueryui.com/themeroller/
+According to jquery ui theme roller, the color code is #6c0909
+remember that THIS COLOR IS DARKER THAN THE TRUE COMPANY COLOR. but jquery theme
+roller applies a slight white filter which gets it a lighter color.

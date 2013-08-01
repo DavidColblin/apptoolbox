@@ -1,0 +1,47 @@
+#iconContent{
+	display: inline-block;
+	padding: 20px;
+	float: left;
+	width: 65%
+}
+
+#feeds{
+	display: inline-block; 
+	width: 30%;
+}
+
+#latestActivities li, #teamActivities li{
+	display: block;
+	margin-top: 5px;
+}
+#latestActivities ul, #teamActivities ul{
+	margin-left: -20px;
+}
+
+#feeds img{
+	margin-right: 10px;
+	float: left;
+}
+
+#latestActivities, #teamActivities{
+	margin: 0 20px 20px;
+	padding: 5px;
+	min-height: 230px;
+	font-size: 10px;
+}
+
+.category span img{
+	position: relative;
+	padding: 10px;
+}
+
+.category span, .category a {
+	margin: 10px
+}
+	
+#feeds b:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+

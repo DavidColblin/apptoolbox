@@ -1,0 +1,18 @@
+Making the theme silver
+
+line 64
+FROM : .ui-widget-header { border: 1px solid #e78f08; background: #f6a828 url(images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x;..
+TO : .ui-widget-header { border: 1px solid silver; background: silver url(images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x; ..
+
+line 73
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active { border: 1px solid silver; background: #ffffff url(images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x; font-weight: bold; color: #eb8f00; }
+
+
+superfish/superfish.css
+line 76
+.sf-menu li:hover, .sf-menu li.sfHover,
+.sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+	background:		#FDF5CE;
+	outline:		0;
+	border-color:#FBCB09;
+}
